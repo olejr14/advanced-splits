@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         advanced splits
 // @namespace    http://tampermonkey.net/
-// @version      4.2
+// @version      5.0
 // @description  blob split menu
 // @author       OLEJR14
 // @match        https://blobgame.io/*
